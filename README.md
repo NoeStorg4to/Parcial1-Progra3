@@ -14,10 +14,6 @@ Bienvenidos al repositorio del **Parcial N°1** de la materia **Programación 3*
 
 Una aplicación web completa de comercio electrónico para venta de frutas, desarrollada con **HTML5, CSS3, JavaScript** y **Bootstrap**.
 
-<div align="center">
-  <img src="https://github.com/NoeStorg4to/Parcial1-Progra3/issues/1" alt="Demo Frutería" width="700"/>
-</div>
-
 ---
 
 ## ✨ Características Principales
