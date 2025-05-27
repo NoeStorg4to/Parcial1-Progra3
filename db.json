@@ -1,0 +1,82 @@
+{
+    "frutas": [
+        {
+            "id": 1,
+            "nombre": "arandano",
+            "precio": 5000,
+            "img": "img/arandano.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "anana",
+            "precio": 3500,
+            "img": "img/anana.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "banana",
+            "precio": 1200,
+            "img": "img/banana.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "frambuesa",
+            "precio": 4500,
+            "img": "img/frambuesa.png"
+        },
+        {
+            "id": 5,
+            "nombre": "frutilla",
+            "precio": 2800,
+            "img": "img/frutilla.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "kiwi",
+            "precio": 2200,
+            "img": "img/kiwi.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "mandarina",
+            "precio": 1800,
+            "img": "img/mandarina.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "manzana",
+            "precio": 1500,
+            "img": "img/manzana.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "naranja",
+            "precio": 1600,
+            "img": "img/naranja.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "pera",
+            "precio": 1700,
+            "img": "img/pera.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "pomelo-amarillo",
+            "precio": 2000,
+            "img": "img/pomelo-amarillo.jpg"
+        },
+        {
+            "id": 12,
+            "nombre": "pomelo-rojo",
+            "precio": 2100,
+            "img": "img/pomelo-rojo.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "sandia",
+            "precio": 4000,
+            "img": "img/sandia.jpg"
+        }   
+    ]
+}

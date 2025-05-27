@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frutería</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <!-- <div class="container-fluid"> ???? -->
+        <!-- fruteria como <a> class navbar-brand href # -->
+        <div class="container-fluid">
+            <!-- <div class="logo">Frutería</div> -->
+
+            <a class="navbar-brand" href="#">Frutería</a>
+
+            <div class="nombreAlumno ms-3"></div>
+
+            <input type="text" placeholder="Search..." class="search-bar" id="search-input">
+
+            <div class="cart ms-3">
+                <span>Cart: <span id="cart-count">0</span> items</span>
+            </div>
+        </div>
+    </nav>
+
+
+    <!-- Contenedor principal -->
+    <main class="container mt-4">
+        <!--  div con class row??  -->
+    <section class="products-section col-lg-8 col-md-7">
+
+        <h2>Nuestras frutas</h2>
+        <div class="product-grid row">
+
+        </div>
+    </section>
+
+
+    <!-- Sección carrito -->
+    <section class="cart-section col-lg-4 col-md-5">
+
+        <h2>Carrito</h2>
+
+        <div id="cart-items" class="card">
+            <!-- div card-body? ? -->
+            <p class="text-muted mb-0">No hay elementos en el carrito.</p>
+        </div>
+
+        <div class="cart-total mt-3">
+            <p>Total: <span id="total-price">$0.00</span></p>
+        </div>
+
+    </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./js/script.js"> </script>
+</body>
+</html>
