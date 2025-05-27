@@ -35,6 +35,16 @@ Se tuvo en cuenta:
 - Calidad del código (legibilidad, uso de funciones, buenas prácticas).
 - Persistencia de datos con `localStorage` en el carrito.
 
+### 🍎 Frutería Online - Sistema de E-commerce
+Una aplicación web completa de comercio electrónico para venta de frutas, desarrollada con **HTML5, CSS3, JavaScript** y **Bootstrap**.
+
+**Características principales:**
+- 🛒 Carrito de compras con persistencia (localStorage)
+- 🔍 Buscador en tiempo real  
+- 📱 Diseño responsive
+- ⚡ Carga dinámica de productos via Fetch API
+- 🧮 Cálculo automático de totales
+- 🗑️ Gestión completa de productos (agregar/eliminar)
 
 
 
